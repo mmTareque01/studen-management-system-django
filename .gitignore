@@ -1,0 +1,17 @@
+/venv/
+/.vscode/
+/.idea/
+*.pyc
+*.pyo
+.*.swp
+db.sqlite3
+
+/config/settings/local.py
+/config/settings/secrets.json
+/logs/
+/tmp/
+__pycache__/
+.DS_Store
+/node_modules/
+/migrations/*.py
+/migrations/*.pyc
