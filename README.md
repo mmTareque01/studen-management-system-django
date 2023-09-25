@@ -1,2 +1,2 @@
-# ebay-api-automation
-ebay api automation using python
+# student-management-system
+
